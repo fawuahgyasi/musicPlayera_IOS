@@ -1,0 +1,66 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* musicPlayer */ = {
+		activeExec = 0;
+		executables = (
+			8020D09114EDEDB90028F5F4 /* musicPlayer */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8020D09114EDEDB90028F5F4 /* musicPlayer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* musicPlayer */;
+		codeSenseManager = 8020D0A214EDEE0C0028F5F4 /* Code sense */;
+		executables = (
+			8020D09114EDEDB90028F5F4 /* musicPlayer */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 351137210;
+			PBXWorkspaceStateSaveDate = 351137210;
+		};
+		sourceControlManager = 8020D0A114EDEE0C0028F5F4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8020D09114EDEDB90028F5F4 /* musicPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = musicPlayer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8020D0A114EDEE0C0028F5F4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8020D0A214EDEE0C0028F5F4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
